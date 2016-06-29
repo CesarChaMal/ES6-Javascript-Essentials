@@ -1,5 +1,7 @@
 "use strict";
 
+//Spread Operator
+
 function multiply(a, b) {
   return a * b;
 }

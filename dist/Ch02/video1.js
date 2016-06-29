@@ -1,5 +1,7 @@
 "use strict";
 
+//Let and const
+
 var firstName = "Max";
 // firstName = "Kaplan"; WILL THROW ERROR BECAUSE IT IS ALREADY SET AND NOW "READ-ONLY"
 // let firstName = "Max"; WILL THROW ERROR BECAUSE CONST IS ALREADY DECLARED

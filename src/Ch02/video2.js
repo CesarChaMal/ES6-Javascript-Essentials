@@ -1,3 +1,5 @@
+//Template Strings
+
 const firstName = "Max";
 const lastName = "Kaplan";
 

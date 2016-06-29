@@ -1,5 +1,7 @@
 "use strict";
 
+//Template Strings
+
 var firstName = "Max";
 var lastName = "Kaplan";
 
