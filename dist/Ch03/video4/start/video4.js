@@ -1,0 +1,2 @@
+// Promise shortcuts
+"use strict";
