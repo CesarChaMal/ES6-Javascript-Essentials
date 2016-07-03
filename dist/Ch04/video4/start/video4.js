@@ -1,0 +1,2 @@
+//WeakMap
+"use strict";
