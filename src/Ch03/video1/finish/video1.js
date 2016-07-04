@@ -1,7 +1,7 @@
 //Intro to promises
 
 //Basic promise syntax. A promise has 2 methods: fulfill and reject.
-let promise = new Promise(function(fulfill, reject) {
+const promise = new Promise(function(fulfill, reject) {
   fulfill('The promise is fulfilled!');
 });
 
