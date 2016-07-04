@@ -12,10 +12,6 @@ function testPromise(value) {
   });
 }
 
-//Set one value to true and the other to false
-const trueValue = testPromise(true);
-const falseValue = testPromise(false);
-
 //Declare our onFullfied function
 function onFulfilled(message) {
   console.log(message);
@@ -24,5 +20,10 @@ function onFulfilled(message) {
 function onRejected(error) {
   console.log(error.message);
 }
+
+//Set one value to true and the other to false
+const trueValue = testPromise(true);
+const falseValue = testPromise(false);
+
 trueValue.then(onFulfilled, onRejected);
 falseValue.then(onFulfilled, onRejected);
