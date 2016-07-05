@@ -1,2 +1,2 @@
-//Resolve or Reject Promises
+//Fulfill or Reject Promises
 "use strict";

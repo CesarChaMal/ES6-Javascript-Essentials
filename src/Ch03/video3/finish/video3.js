@@ -3,7 +3,6 @@
 //ES6 Import Syntax. We will go over this later.
 import {Database} from "../../modules/mock-db";
 const db = new Database();
-// console.log(db.findUser({username: "maxkaplan"}));
 
 //We declare a function that returns the full name of a user object
 function getFullName(data) {

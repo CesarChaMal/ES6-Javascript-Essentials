@@ -1,4 +1,4 @@
-//Resolve or Reject Promises
+//Fulfill or Reject Promises
 
 //We create a function that returns a promise
 function testPromise(value) {
