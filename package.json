@@ -1,7 +1,7 @@
 {
   "name": "es6-javascript-essentials",
   "version": "1.0.0",
-  "description": "The excercise files to along with ES6 Javascript Essentials on uDemy",
+  "description": "The excercise files to along with ES6 Javascript Essentials on udemy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
